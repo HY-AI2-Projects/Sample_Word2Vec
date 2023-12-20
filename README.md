@@ -35,15 +35,13 @@
 
 * Word2Vec을 소개한 Efficient estimation of word representations in vector space 논문에 대한 추가적인 내용은 [논문요약자료](https://github.com/HY-AI2-Projects/Word2Vec/blob/main/Word2Vec_%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0.pdf)를 참고하세요.
 
-## 참고 자료
-
-- [Word2Vec: Skip-gram and CBOW](https://arxiv.org/abs/1301.3781)
-- [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
 
 ## 영화 리뷰를 이용한 Word2Vec 실습
 
 * [Word2Vec.ipynb](https://github.com/HY-AI2-Projects/Word2Vec/blob/main/Word2Vec.ipynb)는 Word2Vec 및 t-SNE을 사용하여 한국어 영화 리뷰 데이터를 자연어 처리하고 텍스트 데이터를 시각화하는 작업을 수행합니다.
 
+## 참고 데이터 
+* 사용된 영화 리뷰 데이터는 https://github.com/e9t/nsmc/의 저장소의 데이터를 참고해 사용했습니다.
 ## 사용된 라이브러리
 
 - `pandas`
