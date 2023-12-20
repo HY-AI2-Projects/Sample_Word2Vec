@@ -20,7 +20,7 @@ Word2Vec 모델은 대량의 텍스트 데이터를 사용하여 단어 간의 �
 
 ## 예제
 
-이 저장소에는 Gensim 라이브러리를 사용하여 Word2Vec 모델을 훈련하는 간단한 예제가 포함되어 있습니다. 자세한 사용법은 [여기](#)를 참조하세요.
+이 저장소에는 Gensim 라이브러리를 사용하여 Word2Vec 모델을 훈련하는 간단한 예제가 포함되어 있습니다. 자세한 사용법은 [여기](#https://github.com/HY-AI2-Projects/Word2Vec/blob/main/Word2Vec_%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0.pdf)를 참조하세요.
 
 ## 참고 자료
 
