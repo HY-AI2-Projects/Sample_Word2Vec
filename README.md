@@ -1,7 +1,7 @@
-# 소개
+## 소개
 * 이 저장소는 'Word2Vec : Efficient estimation of word representations in vector space' 논문에 대한 리뷰와 간단한 구현이 있습니다.
 
-# "Efficient Estimation of Word Representations in Vector Space" 논문 정
+## "Efficient Estimation of Word Representations in Vector Space" 논문 정보
 
 - **제목:** Efficient Estimation of Word Representations in Vector Space
 - **저자:** Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean
