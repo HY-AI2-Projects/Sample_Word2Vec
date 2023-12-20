@@ -31,7 +31,7 @@
 
 * Hierarchical Softmax와 Negative Sampling은 계산 효율성을 높이기 위해 도입되었습니다. 특히, Hierarchical Softmax는 전통적인 Softmax의 계산 복잡도를 개선하여 대규모 어휘에서도 효율적인 학습을 가능케 합니다.
 
-## 논문에 관한 자세한 자료
+## 논문에 관한 추가 자료
 
 * Word2Vec을 소개한 Efficient estimation of word representations in vector space 논문에 대한 자세한 내용은 [논문요약자료](https://github.com/HY-AI2-Projects/Word2Vec/blob/main/Word2Vec_%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0.pdf)를 참고하세요.
 
