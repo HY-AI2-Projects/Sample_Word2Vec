@@ -18,9 +18,9 @@ Skip-gram 모델은 특정 단어를 입력으로 받아 주변 단어들을 예
 
 Word2Vec 모델은 대량의 텍스트 데이터를 사용하여 단어 간의 관계를 학습합니다. 모델이 학습되면 단어 간 유사성 및 의미적 관계를 캡처하는 벡터 표현이 얻어집니다.
 
-## 예제
+## 논문에 관한 자세한 자료
 
-이 저장소에는 Gensim 라이브러리를 사용하여 Word2Vec 모델을 훈련하는 간단한 예제가 포함되어 있습니다. 자세한 사용법은 [여기](https://github.com/HY-AI2-Projects/Word2Vec/blob/main/Word2Vec_%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0.pdf)를 참조하세요.
+Word2Vec을 소개한 Efficient estimation of word representations in vector space 논문에 대한 자세한 내용은 [논문요약자료](https://github.com/HY-AI2-Projects/Word2Vec/blob/main/Word2Vec_%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0.pdf)를 참고하세요.
 
 ## 참고 자료
 
