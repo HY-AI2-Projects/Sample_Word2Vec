@@ -1,5 +1,6 @@
 ## 소개
-* 이 저장소는 'Word2Vec : Efficient estimation of word representations in vector space' 논문에 대한 리뷰와 간단한 구현이 있습니다.
+* 'Word2Vec : Efficient estimation of word representations in vector space' 논문에 대한 리뷰, Word2Vec을 사용한 자연어 처리와 시각화 구현이 담긴 저장소입니다.
+* 작성자 : 한양대학교 산업융합학부 정보융합전공 2020058995 엄정훈
 
 ## "Efficient Estimation of Word Representations in Vector Space" 논문 정보
 
@@ -38,7 +39,7 @@
 
 ## 영화 리뷰를 이용한 Word2Vec 실습
 
-* [Word2Vec.ipynb](https://github.com/HY-AI2-Projects/Word2Vec/blob/main/Word2Vec.ipynb)는 Word2Vec 및 t-SNE을 사용하여 한국어 영화 리뷰 데이터를 자연어 처리하고 텍스트 데이터를 시각화하는 작업을 수행합니다.
+* [Word2Vec.ipynb](https://github.com/HY-AI2-Projects/Word2Vec/blob/main/Word2Vec.ipynb)은 Word2Vec 및 t-SNE을 사용하여 한국어 영화 리뷰 데이터를 자연어 처리하고 텍스트 데이터를 시각화하는 작업을 수행합니다.
 
 ## 참고 데이터 
 * 사용된 영화 리뷰 데이터는 https://github.com/e9t/nsmc/ 의 저장소의 데이터를 참고해 사용했습니다.
