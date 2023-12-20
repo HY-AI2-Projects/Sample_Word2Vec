@@ -1,5 +1,5 @@
 # 소개
-* 이 저장소는 'Word2Vec : Efficient estimation of word representations in vector space' 논문에 대한 리뷰와 간단한 구현을 한 한양대학교 '인공지능2'수업 기말 과제입니다. 
+* 이 저장소는 'Word2Vec : Efficient estimation of word representations in vector space' 논문에 대한 리뷰와 간단한 구현이 있습니다.
 
 ## Word2Vec이란?
 
