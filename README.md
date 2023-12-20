@@ -1,4 +1,7 @@
-# Word2Vec이란?
+# 소개
+* 이 저장소는 'Word2Vec : Efficient estimation of word representations in vector space' 논문에 대한 리뷰와 간단한 구현을 한 한양대학교 '인공지능2'수업 기말 과제입니다. 
+
+## Word2Vec이란?
 
 Word2Vec은 단어를 벡터로 표현하는 자연어 처리(Natural Language Processing, NLP) 기술 중 하나로, 단어 간 의미적 유사성을 수치적으로 나타냅니다. 이 기술은 단어들을 연속적인 공간에 투영하여 단어 간의 관계를 이해하고, 단어 벡터 간의 거리를 통해 의미적 유사성을 측정합니다.
 
